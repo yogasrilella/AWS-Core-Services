@@ -115,7 +115,7 @@ CSV Data → S3 (Raw Bucket) → Glue Crawler → Data Catalog → Athena → S3
 
 3. **Follow the implementation steps** outlined in this README
 
-4. **Run queries** from `handson11_sql.txt` in Athena
+4. **Run queries** from `SQL_QUERY_SCRIPT.pdf` in Athena
 
 
 
